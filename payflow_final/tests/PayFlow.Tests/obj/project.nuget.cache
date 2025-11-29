@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "IAep2Mu5urY=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Sistema PayFlow\\vFinal\\payflow_final\\tests\\PayFlow.Tests\\PayFlow.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Não é possível carregar o índice de serviço para a origem https://api.nuget.org/v3/index.json.\r\n  Ocorreu um erro ao enviar a solicitação.\r\n  O nome remoto não pôde ser resolvido: 'api.nuget.org'",
+      "projectPath": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Sistema PayFlow\\vFinal\\payflow_final\\tests\\PayFlow.Tests\\PayFlow.Tests.csproj",
+      "filePath": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Sistema PayFlow\\vFinal\\payflow_final\\tests\\PayFlow.Tests\\PayFlow.Tests.csproj",
+      "libraryId": "xunit",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Não é possível carregar o índice de serviço para a origem https://api.nuget.org/v3/index.json.\r\n  Ocorreu um erro ao enviar a solicitação.\r\n  O nome remoto não pôde ser resolvido: 'api.nuget.org'",
+      "projectPath": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Sistema PayFlow\\vFinal\\payflow_final\\tests\\PayFlow.Tests\\PayFlow.Tests.csproj",
+      "filePath": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Sistema PayFlow\\vFinal\\payflow_final\\tests\\PayFlow.Tests\\PayFlow.Tests.csproj",
+      "libraryId": "xunit.runner.visualstudio",
+      "targetGraphs": []
+    }
+  ]
+}
